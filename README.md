@@ -65,7 +65,7 @@ graph LR
 |---|---|
 | `full BGP.gns3` | GNS3 project (open in GNS3 with a Cisco 7200 image) |
 | `BGP.mp4` | Walkthrough video of the running lab |
-| `BGP (1).pdf` | Lab task sheet |
+| `BGP-Lab-Task-Sheet.pdf` | Lab task sheet |
 
 Router startup configs:
 
